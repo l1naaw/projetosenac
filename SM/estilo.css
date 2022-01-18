@@ -1,0 +1,26 @@
+h1{
+    color:#3D3D3D;
+
+    font-size: 90px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(121, 115, 139); 
+   text-decoration-line: underline;
+
+
+
+}
+
+body{
+    background-color: rgb(192, 79, 79)
+
+
+}
+
+img{
+    margin-left: 35%;
+    margin-right: -40%;
+    border-inline-color: "#3D3D3D";
+}
+
+ 

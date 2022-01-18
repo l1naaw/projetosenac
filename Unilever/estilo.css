@@ -1,0 +1,40 @@
+.unilever1{
+    background-color: rgb(255, 255, 255);
+    border-color: rgb(245, 188, 83);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border size: 50px;
+    border-style: solid;
+    margin: 50px;
+}
+
+.logotipo{
+    width: 150px;
+    height: 150px;
+    align-items: center;
+    margin-right: 3px;
+}
+
+.nav-link{
+    color: rgb(245, 188, 83);
+    align-items: right;
+}
+
+.card{
+    width: 150px;
+    height: 150px;
+    margin-right: 3px; 
+}
+
+.card2{
+    width: 150px;
+    height: 150px;
+    margin-right: 3px;    
+}
+
+.card3{
+    width: 150px;
+    height: 150px;
+    margin-right: 3px;  
+}
+
+
