@@ -1,0 +1,22 @@
+h1 {
+
+color:#30303a;
+
+font-size: 90px;
+text-align: center;
+font-family: Arial, Helvetica, sans-serif;
+background-color: rgb(254, 254, 255); 
+text-decoration-line: underline;
+
+}
+
+body{
+background-color: rgb(255, 255, 255)
+
+}
+
+img{
+margin-left: 35%;
+margin-right: -40%;
+
+}
